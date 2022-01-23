@@ -5,5 +5,5 @@ int main(){
     cout << "Hello world";
     cout << "I am Duy from Da Nang";
     cout << "To be continue";
-    cout << "Conflict 2";
+    cout << "Conflict 1";
 }
